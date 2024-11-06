@@ -1,4 +1,11 @@
 # Edu-Floating-Service
+
+## How it looks
+
+![img.png](resources/looks.png)
+
+![img.png](resources/browser.png)
+
 ## How to use the small device
 
 1. connect the power cable(usb2.0) to the device
@@ -8,6 +15,11 @@
 5. move the licenses for edu purpose via https://account.jetbrains.com
 6. try to activate the IDE via Help | Register menu and select license server
 7. after finishing using it, just disconnect the power
+
+## If it's not started after pluging in the power cable, please try to re-plug in within 10 seconds
+## Or access to the device via ssh and start the fls.service manually
+
+![img.png](resources/img.png)
 
 # Don't forget to move the licenses out via your account
 
