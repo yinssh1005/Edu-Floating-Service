@@ -23,6 +23,11 @@
 ![img.png](resources/img.png)
 
 # Don't forget to move the licenses out via your account
+### 
+```shell
+rm -rf ./.jb-license-server/
+```
+
 
 ### hostname: ethanpi3b
 ### userName: ethan
