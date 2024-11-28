@@ -41,3 +41,10 @@ rm -rf ./.jb-license-server/
 4. to stop the service, execute command line: `systemctl stop fls.service`
 
 ### troubleshooting page: https://www.jetbrains.com/help/license_server/troubleshooting.html
+
+## How to connect it with your wifi?
+
+```shell
+sudo raspi-config
+```
+
