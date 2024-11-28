@@ -48,3 +48,5 @@ rm -rf ./.jb-license-server/
 sudo raspi-config
 ```
 
+* See more details in https://www.raspberrypi.com/documentation/computers/configuration.html 
+
